@@ -1,6 +1,6 @@
-[![CodeGuide](/codeguide-backdrop.svg)](https://codeguide.dev)
+[![alcademy](/codeguide-backdrop.svg)](https://github.com/alcademyorg)
 
-# CodeGuide Next.js Firebase Starter
+# Alcademy Next.js Firebase Starter
 
 A modern web application starter template built with Next.js 14, featuring authentication and database integration.
 
@@ -19,7 +19,7 @@ Before you begin, ensure you have the following:
 - Node.js 18+ installed
 - A [Clerk](https://clerk.com/) account for authentication
 - A [Firebase](https://firebase.google.com/) project for database and backend services
-- Generated project documents from [CodeGuide](https://codeguide.dev/) for best development experience
+- Generated project documents from [Alcademy](https://github.com/alcademyorg) for best development experience
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ Before you begin, ensure you have the following:
 
    ```bash
    git clone <repository-url>
-   cd codeguide-starter-pro
+   cd alcademy-starter-pro
    ```
 
 2. **Install dependencies**
