@@ -1,15 +1,8 @@
-<div align="center">
-  <a href="https://github.com/alcademyorg">
-    <img src="public/alcademy-logo.png" alt="Alcademy Logo" width="200">
-  </a>
+[![alcademy](/codeguide-backdrop.svg)](https://github.com/alcademyorg)
 
-  <h1>Alcademy Next.js Firebase Starter</h1>
+# Alcademy Next.js Firebase Starter
 
-  <p>
-    A modern web application starter template built with Next.js 14, featuring authentication and database integration.
-  </p>
-</div>
-<br>
+A modern web application starter template built with Next.js 14, featuring authentication and database integration.
 
 ## Tech Stack
 
